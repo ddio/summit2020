@@ -12,6 +12,7 @@ PUSH_URL="https://$GITHUB_TOKEN@github.com:ddio/summit2020.gita"
 #echo "Checking out $TO_BRANCH..." && \
 
 # Checkout the latest stable
+git fetch origin $FROM_BRANCH:$FROM_BRANCH && \
 git fetch origin $TO_BRANCH:$TO_BRANCH && \
 git checkout $TO_BRANCH && \
 
@@ -23,5 +24,4 @@ git commit -m "release $TRAVIS_TAG" --author="Summit Bot <bot@summit.g0v.tw>" &&
 # Push changes back to remote vcs
 echo "Push release $TRAVIS_TAG" && \
 git push $PUSH_URL && \
-echo "Merge complete!" || \
-echo "Error Occurred. Merge failed"
+echo "Merge complete!"

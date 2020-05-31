@@ -13,11 +13,8 @@ jobs:
         edge: true # opt in to dpl v2
         github_token: $GITHUB_TOKEN
         local_dir: dist
-    - stage: release to production
-      if: tag =~ /^release-/
-      script: bash ./tools/release.sh
     - stage: deploy to production
-      if: branch = production
+      if: tag =~ /^release-/
       script: npm run generate:prod
       deploy:
         provider: pages:git
