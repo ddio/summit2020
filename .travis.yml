@@ -22,4 +22,6 @@ jobs:
         github_token: $GITHUB_TOKEN
         target_branch: production-pages
         local_dir: dist
+        on:
+          tags: true
 
