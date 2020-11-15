@@ -28,30 +28,6 @@
         }
       },
       {
-        "id": "attnA6CTM2WNZuf5A",
-        "url": "https://dl.airtable.com/.attachments/924d6e630021c21d70895b2976b994ba/5570bab6.jpg",
-        "filename": "新芽志工.jpg",
-        "size": 354376,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6aadffe513f7c3d5db2491ad0b6f8e1d/9d9deb76",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a1da32614ced146549bf7c59354b259e/52519b40",
-            "width": 771,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4ff4cad719d0a2b4c2d7ec2942674fdb/2318f222",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      },
-      {
         "id": "attMTsY82MNHVJIug",
         "url": "https://dl.airtable.com/.attachments/dac0965e49f58b443eeefece8cff8be6/94dc08dc.jpg",
         "filename": "新芽講座.jpg",
@@ -74,35 +50,12 @@
             "height": 3000
           }
         }
-      },
-      {
-        "id": "attbO5skWp00ACDs8",
-        "url": "https://dl.airtable.com/.attachments/4d1cc1d625ab750bcf62b16c003dca7d/d63c5261.jpg",
-        "filename": "新芽實習生.jpg",
-        "size": 309463,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/816d2ec535d1893b6d826ebef1af948e/a27b4d77",
-            "width": 54,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4046511a547577cf854a46df6b1f3a00/dc8bce9d",
-            "width": 768,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e7e035bb770474601a9edd8afd6e94bc/0f91ce73",
-            "width": 3000,
-            "height": 3000
-          }
-        }
       }
     ],
     "說明-華語": "希望以公民團體的角色對台南市政開始理解、思考並介入、參與，進而達到實質監督的目的。參與政治並非只有參選一途，透過各種網路時代開放政府的思維，我們期許能降低公民關心政治的門檻，從人人都可以的公共參與開始，讓每個人都能快速理解施政實況，並且在資訊盡可能對等的情況下討論政策。\n",
     "說明-en": "Tainan Sprout aims to understand, think, intervene, participate in municipal affairs to effectively oversee the city council and government. There are more avenues to participate in politics other than running for office. With Internet-based ideas to open up government, Taiwan Sprout wants to facilitate everyone’s understanding of politics so that policy deliberation and debates can be based on symmetric information on all sides.\n",
-    "共同主辦名稱-en": "Tainan Sprout"
+    "共同主辦名稱-en": "Tainan Sprout",
+    "is_cover": true
   },
   {
     "id": "recynk7xrz2CDZQn2",
@@ -207,7 +160,8 @@
     ],
     "說明-華語": "於台南經營 co-working space，並且提供免費的資訊培育，以 mentor 引導、學員自主學習的方式，量產好品質的工程師。好想工作室也是台南資訊社群聚集地，舉辦超過 600 場公開講座，同時對接國內外的業界，讓從事資訊相關的年輕人可以根留台南。\n",
     "說明-en": "a IT working space, and focus the topic to software. Doing free training program for people who want to be a developer. Dedicates to building Tainan, the city of Southern Taiwan to become a IT light tower and a manufacturer of producing quality developer in Taiwan.\n",
-    "共同主辦名稱-en": "Good-Ideas Studio"
+    "共同主辦名稱-en": "Good-Ideas Studio",
+    "is_cover": true
   },
   {
     "id": "recyGuwoS8iHdDS5u",
@@ -337,7 +291,8 @@
     ],
     "說明-華語": "g0v 零時政府揪松團是 g0v 社群籌辦雙月大黑客松（大松）和基礎松的工作小組，目前有六位志工和三位職工。2012 年開始協助社群籌辦黑客松，2014 年正式組成「揪松團」（jothon），2016 年起，啟動社群基礎建設計畫，開辦「基礎松（infrathon）」，希望在大黑客松之餘，推動更順暢的線上／線下跨界協作，並於同年底推出「g0v 公民科技創新獎助金（Civic Tech Prototype Grant）」 ，鼓勵 g0v 專案持續投入開發和長期維護、營運。2020 年開辦「零時小學校（Sch001）」，希望與教育、開源社群一起從零重新思考學校的角色。g0v 揪松團也是 g0v Summit 2018 的協辦團隊。\n",
     "說明-en": "g0v jothon is the task force of [g0v.tw](http://g0v.tw/) bi-monthly hackathon, there are currently six volunteers and three staffers. The “jothon” organizers started organizing the g0v hackathon since 2012, and officially formed the “jothon” team in 2014. In 2016, the “infrathon” was launched for infrastructural projects of g0v community, and “Civic Tech Prototype Grant” encourages g0v projects to continue its development, long-term maintenance, and operation. In 2020, educational project “Sch001” was launched to rethink the role of the school from zero. g0v jothon was also a sponsor of g0v Summit 2018.\n",
-    "共同主辦名稱-en": "g0v jothon"
+    "共同主辦名稱-en": "g0v jothon",
+    "is_cover": true
   },
   {
     "id": "recn8PVebWHRxDHHQ",
@@ -403,7 +358,8 @@
     ],
     "說明-華語": "Facing the Ocean（面向海洋）是一個生活在西太平洋的公民黑客社群。「面海松」（Facing the Ocean Meet & Hack）是我們的黑客松系列活動。我們希望能讓多元參與者聚集，嘗試跨國、跨文化的社群之間互相理解、共創解方。\n",
     "說明-en": "Facing the Ocean (FtO) is a community of civic hackers living in the West Pacific Ocean. Facing the Ocean Meet & Hack is our series of hackathon events. By emphasizing on diversity of participants and solution-oriented activities, we hope to create and strengthen a unique experience of commonality, shared among civic hackers across countries. We believe hearing each others’ problems, finding solutions and also having a good time together, is the foundational work of building a stronger regional network. We believe by connecting our sea of communities with openness and mutual trust, together we are more than enough to face the challenges of the ocean of future. Our projects include [Herstory of East Asia](https://herstory-of-east-asia.netlify.app/), [Novel Coronavirus in East Asia (2019-2020)](https://g0v.hackmd.io/8u3Z-p4dQ2KXRNW9rYb4XA), and [Civic Hacking for Public Health](https://g0v.hackmd.io/EskHKmTwQ_yIlfp1PsRdwQ) experience sharing events.\n",
-    "共同主辦名稱-en": "Facing the Ocean Community (FtO)"
+    "共同主辦名稱-en": "Facing the Ocean Community (FtO)",
+    "is_cover": true
   },
   {
     "id": "recZ8xf2ZueoSk8pa",
@@ -435,10 +391,7 @@
       }
     ],
     "說明-華語": "一家你坐越久老闆越開心的咖啡店，一個「研究」生活、好好「自己」的小窩。手作甜點、新鮮優格、乳清、熱壓吐司、鹹派、烘蛋，直接貿易咖啡、無調整小農鮮奶，書牆、雜誌、插座。\n",
-    "說明-en": "\n",
+    "說明-en": "“The more time you spend here, the happier the owners will be.” A Break Cafe is a “small nest” (小窩) to study life and be oneself. Since opening, A Break Cafe has been building their own community with well-sourced ingredients, good food, curated lectures, and comfortable, inclusive space.\n",
     "共同主辦名稱-en": "A Break Cafe"
-  },
-  {
-    "id": "recpKCY8cYkOBjPoZ"
   }
 ]
