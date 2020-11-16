@@ -151,24 +151,24 @@
     "說明-en": "Luminate is a global philanthropic organisation focused on empowering people and institutions to work together to build just and fair societies. We support innovative and courageous organisations and entrepreneurs around the world, and we advocate for the policies and actions that will drive change across four impact areas: Civic Empowerment, Data & Digital Rights, Financial Transparency, and Independent Media. We work with our partners to ensure that everyone has the opportunity to participate in and to shape the issues affecting their societies, and to make those in positions of power more responsive and accountable. Luminate was established in 2018 by philanthropists Pierre and Pam Omidyar. The organisation was founded by The Omidyar Group. ",
     "logo": [
       {
-        "id": "attja9ylTlUENzSbc",
-        "url": "https://dl.airtable.com/.attachments/5bfccc7bab4700b1f7cfc2d5685ac77f/7af6b12b/Luminate_logo_primary_strapline_BLACK_RGB.png",
-        "filename": "Luminate_logo_primary_strapline_BLACK_RGB.png",
-        "size": 22466,
+        "id": "attiIjc5lhnMzXr2u",
+        "url": "https://dl.airtable.com/.attachments/37b537200cc96ea3bc5c69f6cd3346fc/581772c8/logo_A_LUMINATE.png",
+        "filename": "logo_A_LUMINATE.png",
+        "size": 13749,
         "type": "image/png",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3aff4c9a939e04dfef9aec436dd85800/d0433dea",
-            "width": 147,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f00fe11cf585aa36b957966a912851cf/739d245c",
+            "width": 136,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/74037ce7768be7a87f24c7ac0dae2be4/d7a49e98",
-            "width": 640,
-            "height": 157
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f2d0f626a470ecc5b14787ea0e65b996/c2a881b7",
+            "width": 498,
+            "height": 132
           },
           "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/993a80c56bc46b9f72d83be9ef256a18/e063285c",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a70c464c8d888022b6fbd1d4e97f3dad/df67d7b9",
             "width": 3000,
             "height": 3000
           }
@@ -598,5 +598,8 @@
     "url": "https://www.facebook.com/sorryyouthtw/",
     "合作角色": "特別感謝",
     "合作角色-en": "Special thanks"
+  },
+  {
+    "id": "recXsmfbVYb5FF3VH"
   }
 ]
