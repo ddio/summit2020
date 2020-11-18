@@ -600,6 +600,40 @@
     "合作角色-en": "Special thanks"
   },
   {
-    "id": "recXsmfbVYb5FF3VH"
+    "id": "recXsmfbVYb5FF3VH",
+    "名稱-華語": "台南市聲暉協進會",
+    "名稱-en": "Tainan Parents Association of the Deaf",
+    "logo": [
+      {
+        "id": "attvraJxW4yB3UbPr",
+        "url": "https://dl.airtable.com/.attachments/325525c22daefdd12d86a2c64631012a/2b7da8a6/logo_H_.png",
+        "filename": "logo_H_台南市聲暉協進會.png",
+        "size": 24105,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/39251974602231a737a5ded0d45f8b09/7c3fd08d",
+            "width": 136,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ebb3f28980be4fe46f3c96d33f747e4c/d5cfed3d",
+            "width": 498,
+            "height": 132
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/31625fbcf83bdea65e32bbe6daa4202f/6d3047c0",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "url": "https://www.voiced.org.tw/",
+    "合作角色": "特別感謝",
+    "合作角色-en": "Special thanks"
+  },
+  {
+    "id": "recIiJ5c2wNeqfsU5"
   }
 ]
