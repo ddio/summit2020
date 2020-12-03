@@ -701,5 +701,39 @@
     "url": "https://www.voiced.org.tw/",
     "合作角色": "特別感謝",
     "合作角色-en": "Special thanks"
+  },
+  {
+    "id": "reclPoS6kyI60MOyu",
+    "名稱-華語": "好盒器",
+    "名稱-en": "Good To Go",
+    "logo": [
+      {
+        "id": "attqj34ZQJ3WsmxDP",
+        "url": "https://dl.airtable.com/.attachments/59363ef4df6ed22562fa71bd07e9f853/5bc0dca4/oNB0jVLh.png",
+        "filename": "oNB0jVLh.png",
+        "size": 14277,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/003d54865793c5576474f602538ae5e7/862bd0ad",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ddeab3e3493529c6a310a924a4ce2773/8892ad45",
+            "width": 512,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/88810b9c402fa9dd096f314fe70337b6/67d9ba89",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "url": "goodtogo.tw",
+    "合作角色": "特別感謝",
+    "合作角色-en": "Special thanks"
   }
 ]
