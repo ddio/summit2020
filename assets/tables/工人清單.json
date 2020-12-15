@@ -2432,5 +2432,38 @@
     "職稱-華語": "議程委員",
     "職稱-en": "Member",
     "最後更新時間": "2020-11-30T07:33:54.000Z"
+  },
+  {
+    "id": "recQq75HhU0C5NeXA",
+    "顯示名稱-華語": "RSChiang",
+    "顯示名稱-en": "Poren Chiang",
+    "大頭照": [
+      {
+        "id": "attg4uAAqttKFAUcp",
+        "url": "https://dl.airtable.com/.attachments/5ff162e260d88c1b543765d22c7ebf67/de6ec081/Whale-Avatar.png",
+        "filename": "Whale-Avatar.png",
+        "size": 78613,
+        "type": "image/png",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cab62f0a64c42e125c921df05b0eb5e6/1eba54fd",
+            "width": 36,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/64fe82354cf7200905f9bd6fc355753e/37632da3",
+            "width": 462,
+            "height": 462
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8656b84545e2ab0ef2bf0e4b3f9b4514/a04fc7ad",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "組別": "宣傳組",
+    "最後更新時間": "2020-12-14T15:51:47.000Z"
   }
 ]
